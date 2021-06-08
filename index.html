@@ -22,3 +22,11 @@
     
 </body>
 </html>
+
+Home.getnitialProps = async ({req}) => {
+ const res  = await fetch ("http://pmc.blog/api/posts");
+ const json = await res.json();
+ return {pots: json.post };
+};
+
+export default Home;
