@@ -1,3 +1,3 @@
 StarScream Güncellemeler
-- Yeni Telefon eklendi 
-- -Envanter css değiştir
+-Donete araçlar eklendi 
+-Burak banlandı
