@@ -1,3 +1,1 @@
-StarScream Güncellemeler
--Burak Eklendi
--Burak banlandı
+Den eme
