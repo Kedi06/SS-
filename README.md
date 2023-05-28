@@ -1,1 +1,1 @@
-burak naber
+kazandık lan
