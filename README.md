@@ -1,1 +1,1 @@
-watch?v=VREnTCTeS4k
+aşkın olayım
