@@ -1,1 +1,1 @@
-aşkın olayım
+ceza
