@@ -1,1 +1,1 @@
-kazandık lan
+aşkın olayım
