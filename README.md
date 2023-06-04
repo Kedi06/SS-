@@ -1,1 +1,1 @@
-[aşkın olayım](https://www.youtube.com/watch?v=VREnTCTeS4k)
+https://www.youtube.com/watch?v=VREnTCTeS4k
